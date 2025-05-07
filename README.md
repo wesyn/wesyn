@@ -1,7 +1,10 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+My name is Wes, I am interested in all things AI and web dev related!
+
+- 🔭 I’m currently working on building out my own website that uses AI Agents to complete tasks.
+- 🌱 I’m currently learning all things python.
+- 👯 I’m looking to collaborate on any projects that involve AI Agents.
 
 <!--
 **wesyn/wesyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
